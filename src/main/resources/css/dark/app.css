@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Dark Theme Palette Mapping:
+   - #212529 (Gray 900) -> Main Window / App Background
+   - #343a40 (Gray 800) -> Component Fills / Surfaces
+   - #495057 (Gray 700) -> Component Hover States
+   - #6c757d (Gray 600) -> Active / Selected States
+   - #adb5bd (Gray 500) -> Active Borders
+   - #495057 / #dee2e6  -> Borders & Sub-borders
+   - #e9ecef (Gray 200) -> Standard Text / UI Foreground
+   - #f8f9fa (Gray 100) -> High-Contrast Headings & Hover Text
+   ========================================================================== */
+
+.root {
+    -fx-base: #212529;
+    -fx-background-color: #212529;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+}
+

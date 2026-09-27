@@ -67,6 +67,10 @@
                             <noManPages>true</noManPages>
                             <stripDebug>true</stripDebug>
                             <noHeaderFiles>true</noHeaderFiles>
+                            <options>
+                                <option>-Dprism.allowhidpi=false</option>
+                                <option>-Dprism.lcdtext=false</option>
+                            </options>
                         </configuration>
                     </execution>
                 </executions>
